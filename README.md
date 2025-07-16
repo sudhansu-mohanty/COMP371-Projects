@@ -1,6 +1,6 @@
 # COMP 371 - 3D Interactive Graphics Application
 
-## Project Title: **[Your Project Name Here]**
+## ***Project COMP 371*
 
 **Team Members:**
 - Mostafa HASSAN (40228863)
